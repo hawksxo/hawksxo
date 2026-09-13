@@ -27,11 +27,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="48" alt="redis logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
 </div>
