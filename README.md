@@ -4,7 +4,7 @@
 
 ###
 
-<img data-importer="image" height="400" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=F7F7F7&width=750&lines=Hey%2C+I'm+Igmar+Lozada;Backend+Software+Engineer;Clean+Arch+%26+APIs+in+Java%2C+Node.js+%26+Go"  />
+<img data-importer="image" height="400" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Igmar+Lozada;Backend+Software+Engineer;Clean+Arch+%26+APIs+in+Java%2C+Node.js+%26+Go"  />
 
 ###
 
